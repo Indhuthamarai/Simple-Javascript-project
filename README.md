@@ -32,4 +32,5 @@ Losing conditions can be added, such as if the opponent wins or if the player ma
 **Simplified Development:** Entire game logic is in JavaScript, reducing complexity.
 **Lightweight Solution:** Minimal server load since game logic runs in the client's browser.
 **Easy Deployment:** Spring Boot hosts the game, requiring minimal setup.
-![TIC](https://github.com/Indhuthamarai/Simple-Javascript-project/assets/125845927/32c3057e-4903-40b0-9845-67b41edc6814)
+![TAC](https://github.com/Indhuthamarai/Simple-Javascript-project/assets/125845927/befacaf1-c19e-40c6-9641-8c4698f8454e)
+
